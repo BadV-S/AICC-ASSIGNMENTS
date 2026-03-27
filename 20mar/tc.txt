@@ -1,0 +1,36 @@
+Text Challenges
+
+📝 20 Messy Sentences
+1. omg this movie is sooo gud 😂
+2. I cant beleive this happend!!
+3. LOL that was funny 🤣
+4. pls send me d link asap
+5. gud mrng frnds 😊
+6. This is awsm!!!
+7. brb in 5 mins
+8. idk what u mean
+9. thx alot bro 👍
+10. c u soon
+11. wat r u doing
+12. sooo tired 😴
+13. luv this song ❤️
+14. dis is not fair
+15. hahaha 😂😂
+16. omg wt a match
+17. gonna sleep nw
+18. y r u late
+19. im so hapy
+20. pls hlp me
+
+Issues Identified
+1. Slang → omg, lol, brb, idk
+2. Emojis → 😂, ❤️, 👍
+3. Typos → beleive, happend, hapy
+4. Short forms → u, r, pls
+
+Preprocessing Needed
+1. Convert text to lowercase
+2. Remove punctuation & emojis
+3. Expand slang/short forms
+4. Correct spelling errors
+5. Remove stopwords

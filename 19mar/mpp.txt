@@ -1,0 +1,17 @@
+Mini Project Proposal
+
+Student Performance Predictor
+Problem:
+Students struggle to predict their academic performance early.
+
+Dataset:
+Student data (attendance, study hours, internal marks)
+
+Algorithm:
+Linear Regression / Decision Tree
+
+Expected Output:
+Prediction of student marks or pass/fail status
+
+Impact:
+Helps students improve performance and teachers identify weak students early.
