@@ -1,0 +1,18 @@
+5 Insights
+
+You can adapt slightly depending on your dataset.
+
+1. The dataset contains both numerical and categorical features
+This means preprocessing like encoding may be required before ML modeling.
+
+2. Certain columns may contain missing values
+These need handling using imputation (mean/median/mode) or row removal.
+
+3. The column with the highest numerical value indicates potential outliers
+Outliers may affect model performance and may require normalization or scaling.
+
+4. Dataset size (rows & columns) determines model complexity
+Larger datasets allow better generalization in machine learning.
+
+5. Data types matter for analysis
+Numerical columns allow statistical operations, while categorical columns require encoding for ML.

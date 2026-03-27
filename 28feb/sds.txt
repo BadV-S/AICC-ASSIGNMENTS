@@ -1,0 +1,9 @@
+Short Data Story
+
+The bar chart shows that Computer and English subjects have the highest scores, while History has the lowest performance among the subjects. This indicates that students perform better in technical and language-based subjects compared to theoretical ones.
+
+The pie chart highlights the percentage contribution of each subject to the total marks, showing that Computer and English occupy the largest share of performance.
+
+The histogram shows how marks are distributed among students. Most scores fall between 70 and 90, indicating that the majority of students perform at an above-average level, with only a few low scores.
+
+Overall, the data suggests that student performance is generally strong with a slight concentration toward higher marks, and improvement efforts could focus on weaker subjects like History.

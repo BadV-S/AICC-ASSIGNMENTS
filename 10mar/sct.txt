@@ -1,0 +1,34 @@
+Features for Spam Detection
+
+The ML model can analyze features such as:
+1. Number of suspicious words (free, win, prize, urgent)
+2. Presence of links or URLs
+3. Sender email reputation
+4. Number of capital letters
+5. Presence of attachments
+6. Frequency of promotional keywords
+
+Data Needed
+
+To train the model we need a labeled dataset containing:
+| Email Text                   | Label    |
+| ---------------------------- | -------- |
+| "Win a free iPhone now!"     | Spam     |
+| "Meeting scheduled tomorrow" | Not Spam |
+| "Limited offer click here"   | Spam     |
+| "Project report attached"    | Not Spam |
+The dataset should include:
+
+Thousands of emails/messages
+Labels indicating Spam or Not Spam
+
+Possible Mistakes
+False Positive
+A normal email is classified as spam.
+Example:
+A marketing email from a legitimate company.
+
+False Negative
+A spam email is classified as normal.
+Example:
+A phishing message that looks like a bank email.

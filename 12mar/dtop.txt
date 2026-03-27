@@ -1,0 +1,32 @@
+Objective
+Create a simple decision tree to predict whether you should play outside based on weather conditions.
+
+Decision Tree Example
+                    Weather
+                   /       \
+               Sunny       Rainy
+               /              \
+         Humidity            Windy?
+         /      \           /      \
+     High      Normal    Yes      No
+      |           |        |        |
+   Don't Play    Play   Don't Play  Play
+
+Explanation
+1. The root node is the main condition → Weather.
+
+2. If the weather is Sunny, we check Humidity:
+High Humidity → Don't Play
+Normal Humidity → Play
+
+3. If the weather is Rainy, we check Wind:
+Windy → Don't Play
+Not Windy → Play
+
+Example Predictions
+| Weather | Humidity | Wind | Decision   |
+| ------- | -------- | ---- | ---------- |
+| Sunny   | High     | No   | Don't Play |
+| Sunny   | Normal   | No   | Play       |
+| Rainy   | -        | Yes  | Don't Play |
+| Rainy   | -        | No   | Play       |

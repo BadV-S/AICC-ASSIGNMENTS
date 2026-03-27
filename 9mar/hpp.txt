@@ -1,0 +1,13 @@
+How It Works
+
+1. A dataset containing house size and price is created.
+2. The Linear Regression model learns the relationship between size and price.
+3. When a new house size is provided, the model predicts its expected price.
+
+Example Prediction
+
+Input:
+House Size = 1200 sq.ft
+
+Output:
+Predicted Price ≈ $330,000

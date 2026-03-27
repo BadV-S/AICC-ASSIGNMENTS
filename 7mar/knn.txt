@@ -1,0 +1,38 @@
+Concept
+KNN (K-Nearest Neighbors) is a machine learning algorithm that recommends items by finding similar users or similar items.
+In a Netflix-like system, KNN compares a user's preferences with other users and suggests movies liked by the most similar users.
+
+Netflix Recommendation Using KNN
+Suppose we have users who rated movies from 1–5.
+| User   | Action Movie | Comedy Movie | Romance Movie |
+| ------ | ------------ | ------------ | ------------- |
+| User A | 5            | 1            | 1             |
+| User B | 4            | 1            | 2             |
+| User C | 1            | 5            | 4             |
+| User D | 5            | 2            | 1             |
+
+Now a new user (User X) gives ratings:
+| Action | Comedy | Romance |
+| ------ | ------ | ------- |
+| 5      | 1      | 1       |
+
+Similarity Calculation
+We compare User X with other users.
+
+Similarity Idea:
+Users with closer ratings are considered neighbors.
+
+Comparison:
+User X vs User A → Very similar
+User X vs User B → Similar
+User X vs User C → Very different
+User X vs User D → Very similar
+
+If K = 2, the nearest neighbors are:
+User A
+User D
+
+Recommendation Logic
+Since User A and User D both like Action movies, the system recommends:
+More Action movies to User X.
+

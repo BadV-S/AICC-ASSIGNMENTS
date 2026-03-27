@@ -1,0 +1,16 @@
+Objective
+Use K-Means clustering to group customers based on their shopping behavior in a mall dataset. This helps businesses understand different customer types and design targeted marketing strategies.
+
+Customer Groups Identified
+1. High Income – Low Spending Customers
+These customers earn a lot but spend very little in the mall.
+Businesses may target them with exclusive offers or loyalty programs to encourage spending.
+
+2. Medium Income – Medium Spending Customers
+These customers have average income and spending habits.
+They represent the regular customer segment and maintain stable revenue.
+
+3. High Income – High Spending Customers
+These are premium customers who spend frequently.
+They are the most valuable segment and should receive VIP benefits or personalized promotions.
+

@@ -1,0 +1,51 @@
+ML Idea Generator
+
+1. College – Student Performance Prediction
+
+Problem: Predict whether a student is likely to pass or fail a course.
+
+Input:
+Attendance percentage, assignment scores, previous exam marks, study hours, participation.
+
+Output:
+Prediction of student performance (Pass / Fail or Grade category).
+
+2. Healthcare – Disease Risk Prediction
+
+Problem: Predict the risk of developing a disease such as diabetes or heart disease.
+
+Input:
+Age, weight, blood pressure, glucose level, cholesterol, lifestyle habits.
+
+Output:
+Risk level of disease (Low Risk / Medium Risk / High Risk).
+
+3. Shopping – Product Recommendation System
+
+Problem: Recommend products to users based on their preferences and purchase history.
+
+Input:
+User browsing history, previous purchases, product ratings, search queries.
+
+Output:
+List of personalized product recommendations.
+
+4. Smart Campus – Attendance Prediction System
+
+Problem: Predict whether a student will attend a class based on past patterns.
+
+Input:
+Previous attendance records, class schedule, weather conditions, time of day.
+
+Output:
+Probability of student attendance (Likely / Unlikely).
+
+5. Retail – Sales Forecasting
+
+Problem: Predict future sales of products in a store.
+
+Input:
+Past sales data, seasonal trends, promotions, holidays, pricing.
+
+Output:
+Predicted sales quantity for upcoming days or weeks.

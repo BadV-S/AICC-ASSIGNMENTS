@@ -1,0 +1,27 @@
+Steps Performed
+
+1. Handling Missing Values
+Missing values in numerical columns are filled with the mean, and missing text values are replaced with "Unknown".
+
+2. Removing Duplicates
+Duplicate rows are removed to avoid incorrect analysis and biased results.
+
+3. Standardizing Text
+Text values are converted to lowercase and trimmed to ensure consistency in the dataset.
+
+Why Data Cleaning Matters
+
+1. Improves Data Quality
+Clean data ensures that the information used for analysis or machine learning is accurate and reliable.
+
+2. Prevents Model Errors
+Missing values and inconsistent data can cause machine learning models to produce incorrect predictions.
+
+3. Removes Bias and Redundancy
+Duplicate records can distort analysis and lead to biased results.
+
+4. Ensures Consistency
+Standardized text and formatting make it easier to analyze and process data.
+
+5. Improves Model Performance
+Well-cleaned data leads to better training, improved accuracy, and more reliable predictions.
