@@ -1,0 +1,31 @@
+Assignment Name: AI Around Me
+
+1. Google Search
+Uses machine learning ranking algorithms to analyze billions of webpages and predict the most relevant results based on user intent, keywords, and past behavior.
+
+2. YouTube Recommendations
+Uses collaborative filtering and deep learning models to analyze watch history, likes, and user behavior to predict and recommend videos
+
+3. Google Maps
+Uses ML-based traffic prediction models trained on historical and real-time GPS data to estimate travel time and suggest optimal routes.
+
+4. Instagram Feed
+Uses engagement prediction models to rank posts based on probability of likes, comments, shares, and user interaction patterns.
+
+5. Gmail Spam Filter
+Uses Naïve Bayes / supervised classification models trained on labeled spam and non-spam emails to detect unwanted messages.
+
+6. Netflix Recommendations
+Uses matrix factorization and deep learning recommendation systems to suggest movies based on viewing history and similarity patterns.
+
+7. Voice Assistants (Google Assistant / Siri)
+Use speech recognition models (RNNs/Transformers) to convert speech to text and NLP models to understand user intent.
+
+8. Online Shopping (Amazon / Flipkart)
+Uses predictive recommendation systems and customer behavior analytics to suggest products based on browsing and purchase history.
+
+9. Face Unlock in Smartphones
+Uses convolutional neural networks (CNNs) for facial feature extraction and biometric authentication.
+
+10. Autocorrect & Smart Reply
+Uses language models (NLP-based sequence prediction models) to predict the next word or suggest quick replies based on context.
