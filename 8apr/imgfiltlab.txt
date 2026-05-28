@@ -1,0 +1,5 @@
+Explanation
+
+Grayscale → removes color, keeps intensity
+Blur → reduces noise
+Edge Detection → highlights boundaries
