@@ -1,0 +1,2 @@
+TF-IDF gives higher importance to words that are frequent in a document but rare across documents.
+Example: “machine”, “deep”, “neural” become top keywords because they define the topic.
