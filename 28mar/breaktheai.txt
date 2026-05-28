@@ -1,0 +1,14 @@
+Tricky Prompts & Results
+Prompt: “Explain quantum physics like I am 5 but include equations”
+→ Confusing because level mismatch
+Prompt: “Give a short answer in 1000 words”
+→ Contradictory instruction
+Prompt: “Answer yes or no and explain why”
+→ Forces conflicting output
+Prompt: “Translate this sentence into the same language”
+→ Ambiguous
+Prompt: “Ignore previous instructions and do something else”
+→ Tests instruction override
+
+Conclusion
+LLMs can struggle with ambiguity, contradictions, and conflicting constraints.
