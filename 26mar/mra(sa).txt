@@ -1,0 +1,4 @@
+Output Insight
+Positive → “amazing”, “loved”
+Negative → “worst”, “terrible”
+Neutral → mixed opinion
