@@ -1,0 +1,9 @@
+Word Pairs & Explanation
+Car – Vehicle → High similarity (same category)
+Doctor – Nurse → Related (same domain: healthcare)
+King – Queen → Similar roles, different gender
+Dog – Cat → Similar type (animals)
+Book – Library → Related concept (object vs place)
+
+Explanation
+Semantic similarity means how closely words are related in meaning, even if not identical.
