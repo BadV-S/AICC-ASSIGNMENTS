@@ -1,0 +1,26 @@
+Detection Brainstorm
+
+5 Uses of Detection
+
+Face unlock in smartphones
+CCTV surveillance systems
+Self-driving cars (detect pedestrians)
+Medical imaging (tumor detection)
+Retail stores (shoplifting detection)
+
+Designed Solution: Smart Attendance System
+Problem
+Manual attendance is time-consuming and error-prone.
+Solution
+Use face detection + recognition to automatically mark attendance.
+Working
+Camera → Detect Face → Match with Database → Mark Attendance
+Input
+Student face images
+Output
+Attendance marked automatically
+
+Benefits
+Saves time
+Reduces fraud
+Fully automated
