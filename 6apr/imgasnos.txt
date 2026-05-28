@@ -1,0 +1,9 @@
+Explanation
+
+Shape → (Height, Width, Channels)
+Example: (500, 500, 3)
+Pixel Values → Each pixel has values [B, G, R] (0–255)
+Channels →
+3 channels = Blue, Green, Red (color image)
+
+Image = matrix of numbers
