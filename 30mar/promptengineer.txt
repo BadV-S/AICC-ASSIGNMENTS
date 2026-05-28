@@ -1,0 +1,22 @@
+Weak vs Strong Prompts
+1. Resume Prompt
+Weak:
+“Make my resume”
+Strong:
+“Create a professional resume for a computer science student skilled in Python, ML, and cloud computing. Include projects, skills, and achievements.”
+
+2. Business Idea
+Weak:
+“Give business idea”
+Strong:
+“Suggest a low-cost AI startup idea for Indian market with high scalability and monetization strategy.”
+
+3. Study Plan
+Weak:
+“Make study plan”
+Strong:
+“Create a 30-day study plan to learn machine learning from beginner to intermediate with daily tasks and resources.”
+
+Conclusion
+Weak prompts → vague results
+Strong prompts → clear, detailed, high-quality output
