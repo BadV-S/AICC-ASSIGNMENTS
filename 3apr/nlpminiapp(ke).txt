@@ -1,0 +1,4 @@
+Explanation
+
+This app extracts important words (keywords) using TF-IDF.
+Words with higher scores are more important in the text.
